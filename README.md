@@ -8,6 +8,7 @@
     <li><a href="#الإلهام">الإلهام</a></li>
     <li><a href="#قائمة-المصطلحات-المعتمدة">قائمة المصطلحات المعتمدة</a></li>
     <li><a href="#قائمة-المصطلحات-تحت-الدراسة">قائمة المصطلحات تحت الدراسة</a></li>
+    <li><a href="#كيفيّة-المساهمة">كيفيّة المساهمة</a></li>
   </ul>
 
   <h2>الإلهام</h2>
@@ -52,5 +53,37 @@
       <td align="left"><a href="https://github.com/alhadhrami/ArabicOOPTerms/issues/11">Polymorphism</a></td>
     </tr>
   </table>
+
+  <h2>كيفيّة المساهمة</h2>
+
+  <p>
+  هذه قائمة ببعض طرق المساهمة المرحّب بها. يرجى الضغط على نوع المساهمة لعرض إجراءات عملية المساهمة واتّباعها.
+  </p>
+  <p>
+  يمكنك المساهمة بطريقة أخرى اذا كانت غير مذكورة هنا، وسوف يتم مراجعتها.
+  </p>
+
+  <ul>
+    <li>
+      <a href="https://github.com/alhadhrami/ArabicOOPTerms/blob/master/CONTRIBUTING.md#إضافة-مصطلحات-جديدة-ليتم-دراستها">
+      إضافة مصطلحات جديدة ليتم دراستها
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/alhadhrami/ArabicOOPTerms/blob/master/CONTRIBUTING.md#المشاركة-في-النقاشات">
+      المشاركة في النقاشات
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/alhadhrami/ArabicOOPTerms/blob/master/CONTRIBUTING.md#زيادة-شعبيّة-المشروع">
+      زيادة شعبيّة المشروع
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/alhadhrami/ArabicOOPTerms/blob/master/CONTRIBUTING.md#أخرى">
+      أخرى
+      </a>
+    </li>
+  </ul>
 
 </div>
