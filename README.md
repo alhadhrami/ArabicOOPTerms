@@ -7,6 +7,7 @@
   <ul>
     <li><a href="#الإلهام">الإلهام</a></li>
     <li><a href="#قائمة-المصطلحات-المعتمدة">قائمة المصطلحات المعتمدة</a></li>
+    <li><a href="#قائمة-المصطلحات-تحت-الدراسة">قائمة المصطلحات تحت الدراسة</a></li>
   </ul>
 
   <h2>الإلهام</h2>
@@ -28,6 +29,27 @@
     <tr>
       <td align="left"><a href="https://github.com/alhadhrami/ArabicOOPTerms/blob/master/Terms/Object.md">Object</a></td>
       <td>كائن</td>
+    </tr>
+  </table>
+
+  <h2>قائمة المصطلحات تحت الدراسة</h2>
+  <h4>مرتّبة بالترتيب الأبجدي الإنجليزي</h4>
+
+  <table>
+    <tr>
+      <th>المصطلح</th>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/alhadhrami/ArabicOOPTerms/issues/8">Abstraction</a></td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/alhadhrami/ArabicOOPTerms/issues/9">Class</a></td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/alhadhrami/ArabicOOPTerms/issues/10">Encapsulation</a></td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/alhadhrami/ArabicOOPTerms/issues/11">Polymorphism</a></td>
     </tr>
   </table>
 
